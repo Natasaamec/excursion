@@ -1,0 +1,2 @@
+# excursion
+Creaza excurtion proiect.
